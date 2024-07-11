@@ -1,5 +1,5 @@
 ﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-13.238.235.196,2087,80,false,SYD,Oceania,Sydney,93,0.00
+13.238.235.196,2087,80,false,SYD,Oceania,Sydney,93,10.00
 13.55.237.163,2096,80,false,SYD,Oceania,Sydney,93,0.00
 13.55.59.224,2082,80,false,SYD,Oceania,Sydney,93,0.00
 13.55.59.224,2096,80,false,SYD,Oceania,Sydney,93,0.00
